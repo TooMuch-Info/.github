@@ -17,7 +17,7 @@
 |김창영|신상우|이주연|이진민|조성홍|
 |:---:|:---:|:---:|:---:|:---:|
 |<img src='https://github.com/TooMuch-Info/.github/assets/97018869/b49f0e25-f4ec-4a80-9334-ea148eb3da0b' height=80 width=80px></img>|<img src='https://github.com/TooMuch-Info/.github/assets/97018869/b3199d59-f98a-4e49-9231-793f74498953' height=80 width=80px></img>|<img src='https://github.com/TooMuch-Info/.github/assets/97018869/2edbf1da-2a93-472a-b92f-5040219f8d71' height=80 width=80px></img>|<img src='https://github.com/TooMuch-Info/.github/assets/97018869/5245e126-87d4-490d-af9a-cc60e25f60a0' height=80 width=80px></img>|<img src='https://github.com/TooMuch-Info/.github/assets/97018869/d30ad32a-af51-4c25-9729-f579760082d7' height=80 width=80px></img>|
-|[Github](https://github.com/ChangZero)|[Github](https://github.com/sangwoonoel)|[Github](https://github.com/twndus)|[Github](https://github.com/)|[Github](https://github.com/jinmin111)|[Github](https://github.com/GangBean)|
+|[Github](https://github.com/ChangZero)|[Github](https://github.com/sangwoonoel)|[Github](https://github.com/twndus)|[Github](https://github.com/jinmin111)|[Github](https://github.com/GangBean)|
 
 
 ### 팀 노션
